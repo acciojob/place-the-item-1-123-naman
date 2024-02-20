@@ -1,2 +1,81 @@
-
+.holder{
+	width:100vw;
+	display:flex;
+	justify-content:space-between;
+}
+#a{
+	font-size:40px;
+	background-color:red;
+	width:100px;
+	height:100px;
+	order:2
+}
+#b{
+	font-size:40px;
+	background-color:blue;
+	width:100px;
+	height:100px;
+	order:3;
+}
+#c{
+	font-size:40px;
+	background-color:green;
+	width:100px;
+	height:100px;
+	order:1;
+}
+.item{
+	width:100vw;
+	display:flex;
+	justify-content:space-between;
+}
+#a-1{
+	font-size:40px;
+	background-color:red;
+	width:100px;
+	height:100px;
+	order:6
+}
+#a-2{
+	font-size:40px;
+	background-color:blue;
+	width:100px;
+	height:100px;
+	order:7;
+}
+#a-3{
+	font-size:40px;
+	background-color:green;
+	width:100px;
+	height:100px;
+	order:1;
+}
+#a-4{
+	font-size:40px;
+	background-color:green;
+	width:100px;
+	height:100px;
+	order:2;
+}
+#a-5{
+	font-size:40px;
+	background-color:green;
+	width:100px;
+	height:100px;
+	order:3;
+}
+#a-6{
+	font-size:40px;
+	background-color:green;
+	width:100px;
+	height:100px;
+	order:4;
+}
+#a-7{
+	font-size:40px;
+	background-color:green;
+	width:100px;
+	height:100px;
+	order:5;
+}
 /* Your CSS Code here. */
